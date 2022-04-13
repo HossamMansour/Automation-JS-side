@@ -1,4 +1,0 @@
-body
-{ 
- printf "Hello world"
-}
