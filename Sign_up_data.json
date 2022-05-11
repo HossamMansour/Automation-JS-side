@@ -1,0 +1,27 @@
+{
+    "firstName":"Hello",
+    "lastName":"World",
+    "name_less_than_2_char":"H",
+    "name_with_special_char": "!@#$%&",
+    "Name_errormessage1":"Name must be 2 characters at least",
+    "Name_errormessage2": "Name must not have special characters",
+
+    "email": "auto_Cy@learning.com",
+    "invalid_email":"Cypress#automation.book",
+    "Exist_Email": "hossam.alfcih@yahoo.com",
+    "Invalid_Email_erromessage" : "Please enter a valid email address",
+    "Exist_Email_erromessage": "This email already exists. Sign in here",
+
+    "password":"12345678",
+    "Invalid_password": "123456",
+    "Password_Errormessage": "Please enter at least 8 characters",
+   
+    "Career_interset_URL": "https://testing.wuzzuf.basharsys.com/setup/career-interests",
+
+    "Empty_Fname_errormessage": "Please enter your first name.",
+    "Empty_Lname_errormessage": "Please enter your last name.",
+    "Empty_Email_errormessage": "Please enter your email address",
+    "Empty_Password_errormessage": "Please enter your password ."
+
+  }
+  

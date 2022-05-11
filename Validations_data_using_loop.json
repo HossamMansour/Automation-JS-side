@@ -1,0 +1,57 @@
+[
+    {
+        "firstname":"H",
+        "lastName":"World",
+        "email": "auto_Cy@learning.com",
+        "password":"12345678",
+        "errormessage":"Name must be 2 characters at least"
+    },
+    
+    {
+        "firstname": "!@#$%^&*",
+        "lastName":"Special char",
+        "email": "auto_Cy@learning.eg",
+        "password":"123456789",
+        "errormessage": "Name must not have special characters"
+        
+    },
+    {
+        "firstname": "Hello",
+        "lastName":"W",
+        "email": "auto_Cy@yahoo.tech",
+        "password":"09654785125555",
+        "errormessage": "Name must be 2 characters at least"
+    },
+    {
+        "firstname": "No name",
+        "lastName":"()*^",
+        "email": "auto_Cy@gmail.tedx",
+        "password":"er2334353546u",
+        "errormessage": "Name must not have special characters"
+
+    },
+    {
+        "firstname": "Ahmed",
+        "lastName":"Omar",
+        "email": "Cypress#automation.book",
+        "password":"1239871036",
+        "errormessage": "Please enter a valid email address"
+
+    },
+    {
+        "firstname": "Hossam",
+        "lastName":"Khaled",
+        "email": "hossam.alfcih@yahoo.com",
+        "password":"123654f555",
+        "errormessage": "This email already exists. Sign in here"
+
+    },
+    {
+        "firstname": "Amr",
+        "lastName":"Fadl",
+        "email": "W33@yahoo.com",
+        "password":"123456",
+        "errormessage": "Please enter at least 8 characters"
+
+    }
+]
